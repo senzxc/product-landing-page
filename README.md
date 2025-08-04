@@ -8,7 +8,7 @@ Repo ini dibuat sebagai media **belajar membuat tampilan web yang cantik dan uni
 Di dalamnya terdapat **beberapa folder proyek**, masing-masing berisi 1 UI desain berbeda.
 
 ## 🚀 Teknologi
-<img src="https://skillicons.dev/icons?i=html,css,js,php">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind">
 
 ## 📌 Catatan
 - Seluruh gambar dan ikon hanya untuk keperluan belajar.
